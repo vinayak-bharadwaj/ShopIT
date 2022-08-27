@@ -5,7 +5,9 @@ https://myshopit-vinayak.herokuapp.com/
 
 ### Env Variables
 
-Add your config variables values in the config.env file in backend/config folder as shown in the course.
+- Add your config variables values in the config.env file in backend/config folder.
+- Use the credit card as 4000 0027 6000 3184
+
 
 ### Install Dependencies (Frontend)
 
